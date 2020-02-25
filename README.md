@@ -32,5 +32,3 @@ Replace the index.html in this code with the one in the public folder
 
 
 # Tukio
-# Tukio
-# Tukio
